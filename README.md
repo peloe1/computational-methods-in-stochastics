@@ -1,3 +1,3 @@
-# Computational Methods in Stochastics Course Exercises - My Solutions
+# Computational Methods in Stochastics
 
-This repository contains my solutions to the exercises from the course "Computational Methods in Stochastics" at Aalto University.
+This repository contains my solutions to the exercises from a course on Stochastic Methods and Monte Carlo Simulations. The course covers fundamental concepts in stochastics with emphasis on practical implementation for data analysis and simulation of stochastic processes. Topics include generating random variables from standard and non-standard distributions, Markov chains, and key stochastic processes (Poisson, Gaussian, and first-passage processes). The core focus is on Monte Carlo-based methods, including standard Monte Carlo, Metropolis sampling, Markov Chain Monte Carlo (MCMC) with Gibbs and Metropolis-Hastings variants, and Hamiltonian/Hybrid Monte Carlo (HMC). Through hands-on programming, I've gained a thorough understanding of these methods and a solid foundation for Bayesian statistical modeling.
